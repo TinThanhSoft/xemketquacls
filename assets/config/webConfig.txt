@@ -1,0 +1,41 @@
+{
+	"TenBenhVien":"Bệnh viện Đa khoa Cuộc sống",
+    "WebsiteBenhVien":"http://bvcuocsong.vn/",
+    "urlBaseAPI":"http://117.2.166.232:1324",
+    "urlBaseREPORT":"http://117.2.166.232:1324",
+    "urlBaseAPIDangKyKB":"http://117.2.166.232:1652/api/his/dangkyonline/",
+    "urlWebSocket":"ws://localhost:160",
+    "urlDownloadTienIch":"http://localhost:58486/TTeHospitalTool.exe",
+    "urlXemAnhPacs":"http://14.241.91.218/ris/his/viewer?serviceID=",
+    "Ma_TinhThanh":"303",
+    "Ma_QuanHuyen":"30301",
+    "Ma_PhuongXa":"3030115",
+    "Ma_NgheNghiep":"0",
+    "Ma_DanToc":"25",
+    "ListThongTinVaoVien" : [
+        {
+            "id": 2,
+            "tieude": "Xem đơn thuốc",
+            "ten": "Toa thuốc ngoại trú",
+            "icon": "bi bi-prescription2"
+        },
+        {
+            "id": 3,
+            "tieude": "Xem kết quả",
+            "ten": "Xét nghiệm",
+            "icon": "bi bi-file-earmark-medical"
+        },
+        {
+            "id": 4,
+            "tieude": "Xem mô tả kết quả",
+            "ten": "Chẩn đoán hình ảnh",
+            "icon": "bi bi-clipboard2-pulse-fill"
+        },
+        {
+            "id": 5,
+            "tieude": "Xem hình ảnh Pacs",
+            "ten": "Chẩn đoán hình ảnh",
+            "icon": "bi bi-clipboard2-pulse-fill"
+        }
+    ]
+}
